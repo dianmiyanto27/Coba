@@ -24,5 +24,6 @@ public class Mainclass {
         bbk.j();
         bbk.s();
         bbk.h();
+        System.out.println("Wow");
   }  
 }
